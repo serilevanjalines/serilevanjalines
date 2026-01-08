@@ -20,10 +20,7 @@
 
 - Languages: Go, JavaScript, TypeScript, Java 
 - Web: React, Next.js, Node.js  
-- Cloud & DevOps: AWS, Docker (learning)  
 - Other: Git, REST APIs
-  ### 🔧 Tech Stack Icons
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,js,ts,java,react,nextjs,nodejs,aws,docker,git,github&perline=6" alt="Tech Stack" />
 </p>
